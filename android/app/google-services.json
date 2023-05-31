@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36529435685",
+    "project_id": "notebloc-e4c29",
+    "storage_bucket": "notebloc-e4c29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36529435685:android:52d1ce7dbb98651ff33bcc",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOWbS5tg9nkL26y990k30-itI-oPYv53o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
